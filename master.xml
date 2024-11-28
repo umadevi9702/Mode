@@ -3,7 +3,11 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-       <class name="Technology.Technologytab"/>
+        <class name="Careers.DiversityInclusion"/>
+      <class name="Services.ServicesTab"/>
+      <class name="Technology.Technologytab"/>
+      <class name="Services.TruckLoad"/>
+      <class name="Careers.CareersTab"/>
       
     </classes>
   </test> <!-- Test -->
