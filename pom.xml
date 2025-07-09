@@ -2,7 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>Mode</groupId>
   <artifactId>Mode</artifactId>
+  <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
+   <name>Mode</name>
+  <url>http://maven.apache.org</url> 
+  
   
   <build>
     <pluginManagement>
@@ -105,11 +109,7 @@
 	
 	
 	
-	<dependency>
-		<groupId>NewProject</groupId>
-		<artifactId>NewProject</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-	</dependency>
+	
 </dependencies>
   
   

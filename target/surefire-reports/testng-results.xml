@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-25T10:21:02 CST" name="Suite" finished-at="2024-11-25T10:21:49 CST" duration-ms="46491">
+  <suite started-at="2024-11-29T12:31:12 CST" name="Suite" finished-at="2024-11-29T12:32:08 CST" duration-ms="56044">
     <groups>
     </groups>
-    <test started-at="2024-11-25T10:21:02 CST" name="Test" finished-at="2024-11-25T10:21:49 CST" duration-ms="46491">
+    <test started-at="2024-11-29T12:31:12 CST" name="Test" finished-at="2024-11-29T12:32:08 CST" duration-ms="56044">
       <class name="Careers.DiversityInclusion">
-        <test-method signature="Validate()[pri:1, instance:Careers.DiversityInclusion@82de64a]" started-at="2024-11-25T10:21:02 CST" name="Validate" finished-at="2024-11-25T10:21:16 CST" duration-ms="13459" status="PASS">
+        <test-method signature="Validate()[pri:1, instance:Careers.DiversityInclusion@35d019a3]" started-at="2024-11-29T12:31:12 CST" name="Validate" finished-at="2024-11-29T12:31:27 CST" duration-ms="14882" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Validate -->
       </class> <!-- Careers.DiversityInclusion -->
       <class name="Technology.Technologytab">
-        <test-method signature="f()[pri:1, instance:Technology.Technologytab@4c1909a3]" started-at="2024-11-25T10:21:24 CST" name="f" finished-at="2024-11-25T10:21:31 CST" duration-ms="6945" status="PASS">
+        <test-method signature="f()[pri:1, instance:Technology.Technologytab@2a65fe7c]" started-at="2024-11-29T12:31:37 CST" name="f" finished-at="2024-11-29T12:31:46 CST" duration-ms="8844" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- Technology.Technologytab -->
       <class name="Services.ServicesTab">
-        <test-method signature="Validate()[pri:0, instance:Services.ServicesTab@4b0d79fc]" started-at="2024-11-25T10:21:16 CST" name="Validate" finished-at="2024-11-25T10:21:24 CST" duration-ms="8225" status="PASS">
+        <test-method signature="Validate()[pri:0, instance:Services.ServicesTab@4562e04d]" started-at="2024-11-29T12:31:27 CST" name="Validate" finished-at="2024-11-29T12:31:37 CST" duration-ms="10401" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Validate -->
       </class> <!-- Services.ServicesTab -->
       <class name="Services.TruckLoad">
-        <test-method signature="Validate()[pri:1, instance:Services.TruckLoad@428640fa]" started-at="2024-11-25T10:21:31 CST" name="Validate" finished-at="2024-11-25T10:21:42 CST" duration-ms="10549" status="PASS">
+        <test-method signature="Validate()[pri:1, instance:Services.TruckLoad@4135c3b]" started-at="2024-11-29T12:31:46 CST" name="Validate" finished-at="2024-11-29T12:31:57 CST" duration-ms="11508" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Validate -->
       </class> <!-- Services.TruckLoad -->
       <class name="Careers.CareersTab">
-        <test-method signature="Validate()[pri:1, instance:Careers.CareersTab@d9345cd]" started-at="2024-11-25T10:21:42 CST" name="Validate" finished-at="2024-11-25T10:21:49 CST" duration-ms="7232" status="PASS">
+        <test-method signature="Validate()[pri:1, instance:Careers.CareersTab@6302bbb1]" started-at="2024-11-29T12:31:57 CST" name="Validate" finished-at="2024-11-29T12:32:08 CST" duration-ms="10313" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Validate -->

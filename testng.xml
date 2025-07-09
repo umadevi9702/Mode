@@ -4,8 +4,14 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="Careers.DiversityInclusion"/>
+      <class name="About.Test1"/>
+      <class name="Contact.ContactTab"/>
       <class name="Services.ServicesTab"/>
       <class name="Technology.Technologytab"/>
+      <class name="About.LeadershipTab"/>
+      <class name="About.ModeGlobalNewsTab"/>
+      <class name="Services.Intermodal"/>
+      <class name="Home.HomeTab"/>
       <class name="Services.TruckLoad"/>
       <class name="Careers.CareersTab"/>
     </classes>
